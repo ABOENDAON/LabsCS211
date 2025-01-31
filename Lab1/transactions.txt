@@ -1,0 +1,4 @@
+CAD,Canadian Dollar,150 
+BRL,Brazilian Real,125
+MXN,Mexican Peso,350
+CUP,Cuban Peso,199
