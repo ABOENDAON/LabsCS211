@@ -23,4 +23,7 @@ shuffle(test, capacity);
 display(test, capacity); 
 insertion_sort(test,capacity);
 //Expand the main function with calls to the shuffle and sorting functions.
+
+shuffle(test,capacity);
+selection_sort(test,capacity);
 }
